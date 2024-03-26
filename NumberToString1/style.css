@@ -1,0 +1,27 @@
+body {
+    background-color: #553d36;
+}
+#button {
+    background-color: #218380;
+}
+.input{
+    border: 1px solid #218380;
+    background-color: #c0c0c0;
+}
+
+.resultblock {
+    text-align: center;
+    margin-top: 80px;
+    height: 50px;
+    width: 900px;
+    border: 1px solid #218380;
+    background-color: #c0c0c0;
+    position: absolute;
+    left: 18%;
+    top: 25%;
+}
+.inputBlock {
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
